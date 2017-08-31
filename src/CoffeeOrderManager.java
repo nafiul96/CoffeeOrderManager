@@ -12,7 +12,7 @@ import java.util.Scanner;
  * @author nafi
  */
 public class CoffeeOrderManager {
-
+//this comment was added
     private static Scanner input = new Scanner(System.in);
     private static OrderList barista[] = new OrderList[3];
     private static int baristaNum = 1;
